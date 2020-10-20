@@ -2,5 +2,4 @@ This is the file in new branch
 
 hello
 
-
-ended
+Changes are done in master branch
