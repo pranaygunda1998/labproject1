@@ -2,5 +2,5 @@ This is the file in new branch
 
 hello
 
-end
-changes have been made
+
+ended
