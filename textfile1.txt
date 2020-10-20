@@ -2,9 +2,6 @@ This is the file in new branch
 
 hello
 
-<<<<<<< HEAD
 Changes are done in master branch
-=======
 
 changes done in sub branch
->>>>>>> new1
